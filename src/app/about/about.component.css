@@ -1,0 +1,23 @@
+.footer{
+    padding: 40px; 
+    text-align: center;  
+}
+
+.tech{
+    padding: 25px;
+    background-color: red;
+    background-image: linear-gradient(45deg, #f3ec78, #af4261);
+}
+
+tr th{
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+tr th:last-child{
+    padding-left: 40px;
+}
+
+tr td:last-child{
+    padding-left: 40px;
+}

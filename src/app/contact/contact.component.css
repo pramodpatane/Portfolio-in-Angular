@@ -1,0 +1,9 @@
+.col-md-8, .col-md-4{
+    float: left;
+}
+
+.footer{
+    clear: both;
+    padding: 40px; 
+    text-align: center;  
+}

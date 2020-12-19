@@ -1,0 +1,32 @@
+* { box-sizing: border-box; }
+
+ .container-fluid {
+    position: relative;
+    max-width: 100%;
+    margin: 0 auto;
+  }
+  
+  .container-fluid img {vertical-align: middle;}
+  
+  .container-fluid .content {
+    position: absolute;
+    top: 30px; 
+    left: 100px;
+    color: #f1f1f1;
+    max-width: 800px;
+    padding: 20px;
+  } 
+
+  #goal{
+    color: rgb(252, 227, 4);
+    padding-top: 100px;
+  }
+
+  .btn{
+      margin: 20px;
+  }
+
+.footer{
+    padding: 40px; 
+    text-align: center;  
+}
